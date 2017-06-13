@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2017-06-14 00:49+0200\n"
-"PO-Revision-Date: 2017-06-14 00:49+0200\n"
+"PO-Revision-Date: 2017-06-14 00:52+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -26,7 +26,7 @@ msgstr ""
 #: Template/Pages/home.ctp:51
 msgctxt "context"
 msgid "title"
-msgstr ""
+msgstr "Titel mit Kontext"
 
 #: Template/Pages/home.ctp:52
 msgid "title"
