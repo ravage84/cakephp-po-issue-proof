@@ -22,12 +22,3 @@ msgstr ""
 #: Template/Layout/error.ctp:43
 msgid "Back"
 msgstr ""
-
-#: Template/Pages/home.ctp:51
-msgid "title"
-msgstr ""
-
-#: Template/Pages/home.ctp:52
-msgctxt "context"
-msgid "title"
-msgstr "Titel mit Kontext"
