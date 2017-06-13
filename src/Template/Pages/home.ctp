@@ -48,6 +48,8 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
     <div class="header-image"><?= $this->Html->image('cake.logo.svg') ?></div>
     <div class="header-title">
         <h1>Welcome to CakePHP <?= Configure::version() ?> Red Velvet. Build fast. Grow solid.</h1>
+        <h1><?= __('title'); ?></h1>
+        <h1><?= __x('context', 'title'); ?></h1>
     </div>
 </header>
 
