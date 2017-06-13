@@ -22,10 +22,6 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
-#: Template/Pages/home.ctp:53
-msgid "title"
-msgstr ""
-
 #: Template/Pages/home.ctp:51
 msgctxt "context"
 msgid "title"
