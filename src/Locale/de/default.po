@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2017-06-14 00:49+0200\n"
-"PO-Revision-Date: 2017-06-14 00:54+0200\n"
+"POT-Creation-Date: 2017-06-14 01:10+0200\n"
+"PO-Revision-Date: 2017-06-14 01:15+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: de\n"
@@ -23,11 +23,16 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
+#: Template/Pages/home.ctp:53
+msgid "title"
+msgstr "Titel ohne Kontext"
+
 #: Template/Pages/home.ctp:51
 msgctxt "context"
 msgid "title"
-msgstr "Titel mit Kontext"
+msgstr ""
 
 #: Template/Pages/home.ctp:52
+msgctxt "another_context"
 msgid "title"
-msgstr "Titel ohne Kontext"
+msgstr "Titel mit anderem Kontext"
